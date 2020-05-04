@@ -17677,5 +17677,16 @@
     "description": "Wrapper for libclang C headers",
     "license": "BSD 3-Clause",
     "web": "https://github.com/samdmarshall/libclang-nim"
+  },
+  {
+    "name": "finder",
+    "url": "https://github.com/bung87/finder",
+    "method": "git",
+    "tags": [
+      "finder"
+    ],
+    "description": "A new awesome nimble package",
+    "license": "MIT",
+    "web": "https://github.com/bung87/finder"
   }
 ]
