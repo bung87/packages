@@ -18956,5 +18956,17 @@
     "description": "Simple watchdog (watch file changes modified, deleted, created) in nim lang.",
     "license": "BSD",
     "web": "https://github.com/zendbit/nim.nwatchdog"
+  },
+  {
+    "name": "htmlparser",
+    "url": "https://github.com/bung87/htmlparser",
+    "method": "git",
+    "tags": [
+      "html",
+      "parser"
+    ],
+    "description": "a html parser",
+    "license": "MIT",
+    "web": "https://github.com/bung87/htmlparser"
   }
 ]
